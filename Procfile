@@ -1,1 +1,1 @@
-alganews: java -Dspring.profiles.active=heroku -jar target/alganews-api-0.0.1-SNAPSHOT.jar
+web: java -Dspring.profiles.active=heroku -jar target/alganews-api-0.0.1-SNAPSHOT.jar
